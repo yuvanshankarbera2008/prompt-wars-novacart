@@ -1,0 +1,58 @@
+[
+  {
+    "id": "addr-01",
+    "label": "Home",
+    "tag": "Default",
+    "name": "Yuvan Sharma",
+    "phone": "+91 98450 12345",
+    "flat": "Flat 302, Green Glen Orchid Apartments",
+    "street": "12th Main Road, HAL 2nd Stage, Indiranagar",
+    "city": "Bengaluru",
+    "pincode": "560038",
+    "lat": 12.9718,
+    "lng": 77.6415,
+    "isDefault": true
+  },
+  {
+    "id": "addr-02",
+    "label": "Work / Office",
+    "tag": "Office",
+    "name": "Yuvan Sharma",
+    "phone": "+91 98450 12345",
+    "flat": "Tower B, 4th Floor, Tech Hub",
+    "street": "Outer Ring Road, Kadubeesanahalli",
+    "city": "Bengaluru",
+    "pincode": "560103",
+    "lat": 12.9352,
+    "lng": 77.6946,
+    "isDefault": false
+  },
+  {
+    "id": "addr-03",
+    "label": "Parents Home",
+    "tag": "Home",
+    "name": "Kishore Sharma",
+    "phone": "+91 98201 67890",
+    "flat": "Bungalow 7, Bandra Breeze",
+    "street": "Perry Cross Road, Bandra West",
+    "city": "Mumbai",
+    "pincode": "400050",
+    "lat": 19.0585,
+    "lng": 72.8295,
+    "isDefault": false
+  },
+  {
+    "id": "addr-04",
+    "label": "Delhi Branch",
+    "tag": "Other",
+    "name": "Ananya Verma",
+    "phone": "+91 99100 54321",
+    "flat": "A-24, Barakhamba Road",
+    "street": "Near Metro Gate 2, Connaught Place",
+    "city": "Delhi-NCR",
+    "pincode": "110001",
+    "lat": 28.6310,
+    "lng": 77.2210,
+    "isDefault": false
+  }
+]
